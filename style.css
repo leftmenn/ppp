@@ -1,0 +1,18 @@
+body {
+    background-image: url('2026-calculator-illustrate-new-taxes-260nw-2722731557.webp');
+    
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    
+    background-position: center center;
+    
+    background-size: cover;
+    
+    background-color: #72a3b4; 
+    
+    margin: 0;
+    padding: 0;
+    
+    min-height: 100vh;
+}
